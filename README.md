@@ -4,7 +4,7 @@ I'm a creative and resourceful data engineer, report developer and cybersecurity
 I especially like to provide solutions for non-profits looking to have their data cleaned, standardized, readied for analysis, and secured.
 
 - 🔭 I’m currently working on the LeetCode SQL 50!
-- 🌱 I’m currently applying a security-first approach to mw work.
+- 🌱 I’m currently applying a security-first approach to my work.
 - 👯 I'm looking to collaborate on data cleansing & security topics.
 <!--
 **HubBry/HubBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
