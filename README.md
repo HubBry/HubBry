@@ -1,12 +1,3 @@
-## Hello! 👋
-
-I'm a creative and resourceful data engineer, report developer and cybersecurity analyst with a diverse work history looking to provide support for operations efficiency, integration, and innovation. 
-
-I'm a "bridge between silos." I create hybrid technology solutions and data standardizations that embrace new technologies, integrate tried-and-true legacy approaches and respect colleague preferences, all with a security-first ethos. I also edit video: https://youtu.be/kVJzCenDjP8.
-
-- 🔭 I’m currently working on the LeetCode SQL 50!
-- 🌱 I’m currently learning more about applying my Cybersecurity training from NuCamp.
-- 👯 I’m looking to collaborate on data cleansing & Power BI connectivity.
 
 <!--
 **HubBry/HubBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
