@@ -5,7 +5,7 @@ I especially like to provide solutions for non-profits looking to have their dat
 
 - 🔭 I’m currently working on the LeetCode SQL 50!
 - 🌱 I’m currently applying a security-first approach to mw work.
-- 👯 I'm ooking to collaborate on data cleansing & security topics.
+- 👯 I'm looking to collaborate on data cleansing & security topics.
 <!--
 **HubBry/HubBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
